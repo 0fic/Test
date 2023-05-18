@@ -1,0 +1,5 @@
+getgenv().Recipient = 0ficfarm1; -- The username of the roblox account you wish to send gems / huge / gifts to.
+getgenv().StartGemSend = 100000; -- The amount you wish to start sending out Gems
+getgenv().AutoMailGems = true; -- Enables or disables gem being sent
+getgenv().AutoMailHuge = false; -- enables or disables huge being sent
+getgenv().AutoMailGifts = false; -- enables or disables gift being sent
